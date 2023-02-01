@@ -1,0 +1,13 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Molly Depew",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 7 - Inactive",
+  "email": "molly.depew#zebra.com",
+  "friendly_name": "Modern Py",
+  "github_user": "mollypi",
+  "license": "MIT",
+  "package_name": "modern_py",
+  "project_name": "modern-py",
+  "version": "0.0.0"
+}
